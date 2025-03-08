@@ -65,7 +65,7 @@ Maintains a database of **employee device information and assigned IP addresses*
 🔹**Real-time Threat Detection** – Instant alerts for suspicious activities  
 🔹**Automated Logging & Forensics** – Captures key evidence for investigations  
 🔹**Interactive Global Heatmap** – Tracks attack sources visually  
-🔹**Seamless Integration** – Works with **MongoDB & Python backend**  s
+🔹**Seamless Integration** – Works with **MongoDB & Python backend**
 🔹**Comprehensive Security Analytics** – Logs, keylogs, images, and network data all in one place  
 
 ---
