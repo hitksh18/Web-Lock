@@ -18,24 +18,24 @@ It integrates **intrusion detection, keystroke logging, attack heatmaps, and net
 ## <span style="color:#E74C3C;">How WebLock Works</span>
 
 ### **<span style="color:#2ECC71;">1. Real-Time Intrusion Detection</span>**
-✔️ Monitors login attempts and user behavior  
-✔️ Detects **brute-force attacks, SQL injection, XSS attempts, and unauthorized access**  
-✔️ Logs suspicious activities for analysis  
+🔹Monitors login attempts and user behavior  
+🔹Detects **brute-force attacks, SQL injection, XSS attempts, and unauthorized access**  
+🔹Logs suspicious activities for analysis  
 
 ### **<span style="color:#8E44AD;">2.  IP Tracking & Heatmap Visualization</span>**
-✔️ Captures **intruder's IP, geolocation, and ISP details**  
-✔️ Visualizes attack sources on a **global heatmap** for real-time tracking  
-✔️ Helps identify and respond to threats efficiently  
+🔹Captures **intruder's IP, geolocation, and ISP details**  
+🔹Visualizes attack sources on a **global heatmap** for real-time tracking  
+🔹Helps identify and respond to threats efficiently  
 
 ### **<span style="color:#1ABC9C;">3. Keystroke & Data Capture</span>**
-✔️ **Records keystrokes** silently  
-✔️ **Captures screenshots** of suspicious activity  
-✔️ **Takes images from the webcam** for forensic analysis  
+🔹**Records keystrokes** silently  
+🔹**Captures screenshots** of suspicious activity  
+🔹**Takes images from the webcam** for forensic analysis  
 
 ### **<span style="color:#D35400;">4.  Centralized Database & Analytics</span>**
-✔️ Stores all logs, keystrokes, and images in a **secure MongoDB database**  
-✔️ Provides real-time access to security events and insights  
-✔️ Enables admins to **analyze intrusion patterns and trends**  
+🔹Stores all logs, keystrokes, and images in a **secure MongoDB database**  
+🔹Provides real-time access to security events and insights  
+🔹Enables admins to **analyze intrusion patterns and trends**  
 
 ---
 
@@ -62,11 +62,12 @@ Maintains a database of **employee device information and assigned IP addresses*
 
 ## <span style="color:#16A085;">Why Choose WebLock?</span>
 
-🔹**Real-time Threat Detection** – Instant alerts for suspicious activities  
-🔹**Automated Logging & Forensics** – Captures key evidence for investigations  
-🔹**Interactive Global Heatmap** – Tracks attack sources visually  
-🔹**Seamless Integration** – Works with **MongoDB & Python backend**
-🔹**Comprehensive Security Analytics** – Logs, keylogs, images, and network data all in one place  
+- **Real-time Threat Detection** – Instant alerts for suspicious activities
+- **Automated Logging & Forensics** – Captures key evidence for investigations
+- **Interactive Global Heatmap** – Tracks attack sources visually
+- **Seamless Integration** – Works with MongoDB & Python backend
+- **Comprehensive Security Analytics** – Logs, keylogs, images, and network data all in one place
+
 
 ---
 
